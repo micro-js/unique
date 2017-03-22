@@ -2,7 +2,7 @@
   "name": "@f/unique",
   "description": "Return the unique elements of a list",
   "repository": "git://github.com/micro-js/unique.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
