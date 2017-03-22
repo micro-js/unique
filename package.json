@@ -1,0 +1,17 @@
+{
+  "name": "@f/unique",
+  "description": "Return the unique elements of a list",
+  "repository": "git://github.com/micro-js/unique.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/find-index": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
